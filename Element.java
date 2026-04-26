@@ -1,7 +1,7 @@
 /**
- * Stellt ein Element innerhalb der Liste dar.
- * Enthält eine Referenz auf das nächste und vorherige Element.
-**/
+ * Stellt ein Element der verketteten Liste dar.
+ * Enthält eine Webseite sowie eine Referenz auf das nächste und vorherige Element.
+ */
 public class Element {
 
   private Object value;   
