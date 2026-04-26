@@ -1,3 +1,7 @@
+/**
+ * Implementiert eine verkettete Liste zur Speicherung von Webseiten.
+ * Bietet Methoden zum Hinzufügen, Entfernen und Durchlaufen der Elemente.
+**/
 public class List{
   private Element first;
   private Element last;
