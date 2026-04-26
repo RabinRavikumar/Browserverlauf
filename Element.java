@@ -1,3 +1,7 @@
+/**
+ * Stellt ein Element innerhalb der Liste dar.
+ * Enthält eine Referenz auf das nächste und vorherige Element.
+**/
 public class Element {
 
   private Object value;   
