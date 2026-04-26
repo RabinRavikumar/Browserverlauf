@@ -1,3 +1,8 @@
+/**
+ * Verwaltet den Browserverlauf.
+ * Nutzt eine verkettete Liste, um besuchte Webseiten zu speichern
+ * und die Navigation durch den Verlauf zu ermöglichen.
+**/
 public class Browserverlauf{
   private List verlauf;
   private List sitzungsverlauf;
