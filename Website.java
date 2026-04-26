@@ -1,3 +1,7 @@
+/**
+ * Repräsentiert eine einzelne Webseite im Browserverlauf.
+ * Enthält Informationen wie URL der Webseite.
+**/
 public class Website{
   private String adresse;
   
